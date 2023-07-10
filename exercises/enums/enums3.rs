@@ -6,7 +6,7 @@
 // hint.
 
 enum Message {
-    // TODO: implement the message variant types based on their usage below
+    // implement the message variant types based on their usage below
     ChangeColor(u8, u8, u8),
     Echo(String),
     Move(Point),
